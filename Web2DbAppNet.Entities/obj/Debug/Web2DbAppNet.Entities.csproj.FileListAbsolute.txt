@@ -1,0 +1,6 @@
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Entities\bin\Debug\Web2DbAppNet.Entities.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Entities\bin\Debug\Web2DbAppNet.Entities.pdb
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Entities\obj\Debug\Web2DbAppNet.Entities.csprojResolveAssemblyReference.cache
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Entities\obj\Debug\Web2DbAppNet.Entities.csproj.CoreCompileInputs.cache
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Entities\obj\Debug\Web2DbAppNet.Entities.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Entities\obj\Debug\Web2DbAppNet.Entities.pdb

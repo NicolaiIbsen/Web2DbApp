@@ -1,0 +1,10 @@
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\bin\Debug\Web2DbAppNet.Services.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\bin\Debug\Web2DbAppNet.Services.pdb
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\bin\Debug\Web2DbAppNet.Entities.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\bin\Debug\Web2DbAppNet.Entities.pdb
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\obj\Debug\Web2DbAppNet.Services.csprojResolveAssemblyReference.cache
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\obj\Debug\Web2DbAppNet.Services.csproj.CoreCompileInputs.cache
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\obj\Debug\Web2DbAppNet.Services.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\obj\Debug\Web2DbAppNet.Services.pdb
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\bin\Debug\Newtonsoft.Json.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.Services\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,15 @@
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.UI.exe.config
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.UI.exe
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.UI.pdb
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.DataAccess.dll
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.Entities.dll
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.Services.dll
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.DataAccess.pdb
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.Entities.pdb
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Web2DbAppNet.Services.pdb
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\obj\Debug\Web2DbAppNet.UI.csprojResolveAssemblyReference.cache
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\obj\Debug\Web2DbAppNet.UI.csproj.CoreCompileInputs.cache
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\obj\Debug\Web2DbAppNet.UI.exe
+C:\Users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.UI\obj\Debug\Web2DbAppNet.UI.pdb

@@ -1,0 +1,8 @@
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\bin\Debug\Web2DbAppNet.DataAccess.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\bin\Debug\Web2DbAppNet.DataAccess.pdb
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\obj\Debug\Web2DbAppNet.DataAccess.csproj.CoreCompileInputs.cache
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\obj\Debug\Web2DbAppNet.DataAccess.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\obj\Debug\Web2DbAppNet.DataAccess.pdb
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\bin\Debug\Web2DbAppNet.Entities.dll
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\bin\Debug\Web2DbAppNet.Entities.pdb
+c:\users\nico4970\source\repos\Web2DbAppNet\Web2DbAppNet.DataAccess\obj\Debug\Web2DbAppNet.DataAccess.csprojResolveAssemblyReference.cache
